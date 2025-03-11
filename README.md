@@ -20,3 +20,9 @@ Mon 10 Mar 2025 08:53:19 PM PDT this should say Mon 10 Mar 2025...
 
 Mon 10 Mar 2025 08:54:29 PM PDT
 experiment with int types.
+
+
+Mon 10 Mar 2025 09:12:46 PM PDT
+try using decimal, octal, and hex.
+include <iomanip> and use hex.
+same with oct.

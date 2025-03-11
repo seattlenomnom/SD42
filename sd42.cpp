@@ -4,6 +4,7 @@
  */
 
 #include <iostream>
+#include <iomanip>
 
 
 int main() {
@@ -11,6 +12,8 @@ int main() {
     char c = 'a';
     int x = 123;
     int y = 33;
+    int omega = 012;
+    int lamda = 0xA;
 
 
 
@@ -29,6 +32,17 @@ int main() {
     std::cout << "The value of y is: " << y << "\n";
 
     std::cout << "The size of an int is " << sizeof(int) << "\n";
+
+    std::cout << "Does this show 012? " << omega << "\n";
+
+    std::cout << "Does this show 0xA? " << lamda << "\n";
+
+    std::cout << "Now 0xA? " << std::hex << lamda << "\n";
+
+    std::cout << "Now 012? " << std::oct << omega << std::endl;
+
+
+
 
 
 
