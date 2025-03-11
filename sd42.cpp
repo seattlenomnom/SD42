@@ -7,5 +7,5 @@
 
 
 int main() {
-    std::cout << "Hello, World!\n";
+    std::cout << "Hello, World!\n" << "This is anothere string\n";
 }
