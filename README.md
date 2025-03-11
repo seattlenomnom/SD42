@@ -1,0 +1,8 @@
+# SD42
+## Description
+SD42 is a "Hello, world!" program in cpp
+
+## Notes
+03/10/2025 finished first set up of progject
+
+
